@@ -1,5 +1,7 @@
 # another-realtime-anpr-ocr
 
+Link to: [another-realtime-anpr](https://github.com/sepdijono/another-realtime-anpr)
+
 
 We regret to inform you that we only provide guides for Linux users, specifically Ubuntu.
 
